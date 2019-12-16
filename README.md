@@ -12,11 +12,11 @@ Django based web app to generate personalized passwords for brute force attack.
 
 ## Clone with HTTPS
 ```
-git clone https://github.com/RohanLodhi/personalizedpw-generator.git
+git clone https://github.com/RohanLodhi/brute-pwgenerator.git
 ```
 
 ## Clone with SSH
 ```
-git clone git@github.com:RohanLodhi/personalizedpw-generator.git
+git clone git@github.com:RohanLodhi/brute-pwgenerator.git
 ```
 
